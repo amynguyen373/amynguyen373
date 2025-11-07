@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋! 
+# I am Minh Anh Nguyen!
 
-<!--
-**amynguyen373/amynguyen373** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏫 Studied Business Analytics at Deakin University 
 
-Here are some ideas to get you started:
+📊 Digging Into **Data Visualisation and Business Intelligence**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤔 I’m looking for help with [dataviz](https://pudding.cool/) in the retail and outdoor industry
+
+💭 Ask me anything about **Power BI, Python**
+
+🌇 Side-quest: running, hiking, trail-running, everything outdoor.
+
+[![Minh Anh's GitHub stats](https://github-readme-stats.vercel.app/api?username=amynguyen373)](https://github.com/amynguyen373/github-readme-stats)
